@@ -1,10 +1,15 @@
 body{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    color: aqua;
+    color: darkslategray;
+    margin: 0;
+    padding: 0;
 }
 
 .cabecera{
     background-color: blue;
     color: white;
+    padding: 10px;
+    text-align: left;
+    text-size-adjust: initial;
 }
